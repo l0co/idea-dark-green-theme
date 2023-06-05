@@ -57,6 +57,10 @@
       "FileHistory.Commit.selectedBranchBackground": "#2E3D5A"
     },
 
+    "CompletionPopup":  {
+      "matchForeground": "#000000"
+    },
+
     "FileColor": {
       "Yellow": "#2d2a1f",
       "Green": "#021a03",

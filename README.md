@@ -11,3 +11,7 @@ A dark-green theme for Intellij Idea I use, based on [Darcula Darker Theme](http
 ## Related GTK theme
 
 Additional [gtk](./gtk) dir contains corresponding GTK theme based on [Materia Dark Compact](https://github.com/nana-4/materia-theme), which looks beautifully with [Breeze Dark Green](https://www.gnome-look.org/p/1328162) icons.
+
+## Docs
+
+1. [Theme example](https://github.com/JetBrains/intellij-community/blob/idea/231.9011.34/platform/platform-resources/src/themes/HighContrast.theme.json)

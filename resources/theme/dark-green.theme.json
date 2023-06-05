@@ -58,7 +58,9 @@
     },
 
     "CompletionPopup":  {
-      "matchForeground": "#000000"
+      "matchForeground": "#006fff",
+      "foreground": "#FFFFFF",
+      "selectionBackground": "primaryGreen"
     },
 
     "FileColor": {
@@ -83,9 +85,19 @@
 
     "SearchEverywhere": {
       "Tab": {
-        "selectedForeground": "#CFD2D5",
-        "selectedBackground": "#393a3d"
+        "selectedForeground": "primaryGreen",
+        "selectedBackground": "#000000"
+      },
+      "SearchField.borderColor": "#b3b3b3",
+      "Advertiser": {
+        "background": "#000080",
+        "borderInsets": "3,8,5,0"
       }
+    },
+
+    "SearchMatch": {
+      "startBackground": "primaryGreen",
+      "endBackground": "#13a816"
     },
 
     "EditorTabs": {

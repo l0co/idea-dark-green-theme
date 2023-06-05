@@ -1,2 +1,2 @@
 #!/bin/bash
-jar cf /home/lukasz/.JetBrains/local_share/IntelliJIdea2023.1/IdeaDarkGreenTheme.jar META-INF theme
+jar cf ~/.local/share/JetBrains/IntelliJIdea2023.1/IdeaDarkGreenTheme.jar META-INF theme

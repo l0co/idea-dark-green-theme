@@ -58,13 +58,13 @@
     },
 
     "FileColor": {
-      "Yellow": "#ffcb00",
-      "Green": "primaryGreen",
-      "Blue": "#5252ff",
-      "Violet": "#ff4bff",
-      "Orange": "#ff6900",
-      "Rose": "#ff3374",
-      "Gray": "#a1a1a1"
+      "Yellow": "#413500",
+      "Green": "#074d09",
+      "Blue": "#1b1b41",
+      "Violet": "#3a0a3a",
+      "Orange": "#4b2e01",
+      "Rose": "#3d0d1a",
+      "Gray": "#414141"
     },
 
     "DefaultTabs": {

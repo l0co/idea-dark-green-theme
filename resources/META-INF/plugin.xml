@@ -1,0 +1,29 @@
+<idea-plugin>
+	<id>com.lifeinide.darkgreen</id>
+	<name>DarkGreen theme</name>
+	<version>1.0.2</version>
+	
+	<description><![CDATA[
+      IntelliJ Dark Green Theme.
+    ]]></description>
+	
+	<change-notes><![CDATA[
+    ]]>
+	</change-notes>
+	
+	<!-- Idea version -->
+	<idea-version since-build="191.0"/>
+	
+	<!-- Dependencies -->
+	<depends>com.intellij.modules.platform</depends>
+	<depends>com.intellij.modules.lang</depends>
+	
+	<!-- Extensions -->
+    <extensions defaultExtensionNs="com.intellij">
+        <themeProvider id="dark-green" path="/theme/dark-green.theme.json"/>
+    </extensions>
+	
+	<!-- Actions -->
+	<actions/>
+
+</idea-plugin>

@@ -1,0 +1,3 @@
+#!/bin/bash
+# https://github.com/JetBrains/intellij-community/blob/idea/231.9011.34/platform/platform-resources/src/themes/HighContrast.theme.json
+jar cf /home/lukasz/.JetBrains/local_share/IntelliJIdea2023.1/IdeaDarkGreenTheme.jar META-INF theme

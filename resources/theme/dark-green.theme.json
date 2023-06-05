@@ -1,0 +1,111 @@
+{
+  "name": "DarkGreen",
+  "author": "Lukasz Frankowski",
+  "dark": true,
+  "editorScheme": "/theme/SonOfObsidian.xml",
+  "colors": {
+    "primaryGreen": "#13c217",
+    "darkGreen": "#053606",
+    "inactive": "#424242"
+  },
+  "ui": {
+    "*": {
+      "background": "#2f3032",
+      "disabledBackground": "#2F3032",
+      "inactiveBackground": "#333436",
+
+      "selectionBackground": "primaryGreen",
+      "selectionForeground": "#000000",
+      "selectionInactiveBackground": "inactive",
+
+      "lightSelectionBackground": "#393a3d",
+      "lightSelectionInactiveBackground": "#2f3032",
+
+      "borderColor": "#414245",
+      "disabledBorderColor": "#333336",
+
+      "separatorForeground": "#414245",
+      "separatorColor": "#414245",
+      "lineSeparatorColor": "#414245"
+    },
+
+    "Button": {
+      "startBackground": "primaryGreen",
+      "endBackground": "primaryGreen",
+      "foreground": "#000000",
+
+      "default": {
+        "foreground": "#000000",
+        "startBackground": "primaryGreen",
+        "endBackground": "primaryGreen",
+        "focusedBorderColor": "#000000"
+      }
+    },
+
+    "Borders": {
+      "color": "#414245",
+      "ContrastBorderColor": "#414245"
+    },
+
+    "Tree.rowHeight": 20,
+
+    "VersionControl": {
+      "Log.Commit": {
+        "currentBranchBackground": "#2E3D5A",
+        "unmatchedForeground": "#727380"
+      },
+      "FileHistory.Commit.selectedBranchBackground": "#2E3D5A"
+    },
+
+    "FileColor": {
+      "Yellow": "#381C00",
+      "Green": "primaryGreen",
+      "Blue": "#00004D",
+      "Violet": "#471747",
+      "Orange": "#733000",
+      "Rose": "#4D0F22",
+      "Gray": "#062329"
+    },
+,
+
+    "DefaultTabs": {
+      "hoverBackground": "#00000000",
+      "underlineColor": "primaryGreen",
+      "underlinedTabBackground": "#393a3d"
+    },
+
+    "ProgressBar": {
+      "progressColor": "primaryGreen"
+    },
+
+    "SearchEverywhere": {
+      "Tab": {
+        "selectedForeground": "#CFD2D5",
+        "selectedBackground": "#393a3d"
+      }
+    },
+
+    "EditorTabs": {
+      "selectedBackground": "#37383b",
+      "inactiveMaskColor": "#00000033",
+      "underlinedTabBackground": "#393a3d",
+      "underlinedTabForeground": "#CFD2D5"
+    },
+
+    "ToolWindow.HeaderTab": {
+      "underlinedTabBackground": "#393a3d"
+    }
+  },
+
+  "icons": {
+    "ColorPalette": {
+      "Actions.Green": "primaryGreen",
+
+      "Objects.Green": "primaryGreen",
+
+      "Checkbox.Background.Default.Dark": "primaryGreen",
+      "Checkbox.Foreground.Selected.Dark": "#000000"
+    }
+  }
+
+}
